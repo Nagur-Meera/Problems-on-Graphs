@@ -74,7 +74,7 @@ This project implements various graph algorithms on the given weighted undirecte
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/Nagur-Meera/Problems-on-Graphs.git
    cd graph-algorithms
    ```
 2. Run each algorithm:
